@@ -1,60 +1,60 @@
 [
     {
-        "id": "HNPK7X2QM3abcdefghij",
+        "id": "1",
         "title": "Wireless Noise-Canceling Headphones",
         "image": "https://scontent.fpnh19-1.fna.fbcdn.net/v/t39.30808-6/474457249_122103742526731948_380021730438344009_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEt7R-eKkOWyjdN2csh_XbbMEQVXluupEUwRBVeW66kRVBii9gK2Wkupv0XtGgBMINfmWM8dylIGgdltns6qC3w&_nc_ohc=NLtYb_gQdJ0Q7kNvgGgSzku&_nc_zt=23&_nc_ht=scontent.fpnh19-1.fna&_nc_gid=A9YlHrBdEix2IieBi4qpw06&oh=00_AYAPdQxYev6Pthp06QnTN5ITjtaTjLBFTHLIppG3TD1Muw&oe=6797AB67",
         "description": "Premium over-ear headphones with advanced noise-canceling technology, delivering crystal-clear sound and uninterrupted listening experience."
     },
     {
-        "id": "FTWS9L4NR6klmnopqrstu",
+        "id": "2",
         "title": "Smart Fitness Tracker Watch",
         "image": "https://play-lh.googleusercontent.com/QjZlZ7Gm9K0krVK4tyuRK_uHGtjcrsmpPvyRYNg_BWvIIVcN2YF4D9VVaHpOHEBlGhc",
         "description": "Comprehensive health monitoring smartwatch with heart rate tracking, GPS, sleep analysis, and waterproof design for active lifestyles."
     },
     {
-        "id": "ESPM5J8TD2uvwxyzabcdfe",
+        "id": "3",
         "title": "Portable Espresso Machine",
         "image": "https://play-lh.googleusercontent.com/EDtak6h5jMONLy-MfCcn30FAcR-dSGXu4mpQQEVE5vkc5SuCem-sMntrWKHOBdnWJzk=w600-h300-pc0xffffff-pd",
         "description": "Compact, battery-powered espresso maker for coffee enthusiasts. Brew professional-quality espresso shots anywhere with ease."
     },
     {
-        "id": "WRCD3G6KL9zyxwvutsrqpo",
+        "id": "4",
         "title": "Wireless Charging Desk Lamp",
         "image": "https://m.media-amazon.com/images/I/519LF6MOOwL.jpg",
         "description": "Modern LED desk lamp with integrated wireless charging pad, touch controls, and adjustable color temperature settings."
     },
     {
-        "id": "BTSP7H1YN4klmnopqrstuv",
+        "id": "5",
         "title": "Bluetooth Outdoor Speaker",
         "image": "https://m.media-amazon.com/images/I/71UCN--IK1L.jpg",
         "description": "Rugged, waterproof bluetooth speaker with 360-degree sound, 20-hour battery life, and built-in power bank functionality."
     },
     {
-        "id": "SVRB2Z5QT8abcdefghijklm",
+        "id": "6",
         "title": "Smart Robot Vacuum Cleaner",
         "image": "https://s9.kh1.co/__image/w=600,h=600,fit=cover/18/18dfd4eada179c817b0af9f5d3c2fc139fea7b04.png",
         "description": "AI-powered robotic vacuum with mapping technology, app control, automatic charging, and multi-surface cleaning capabilities."
     },
     {
-        "id": "PWRS4K9JM1rstuvwxyzabcd",
+        "id": "7",
         "title": "Portable Power Station",
         "image": "https://cdn.thewirecutter.com/wp-content/media/2024/11/portable-power-station-2048px-9857.jpg",
         "description": "Compact 500Wh solar generator with multiple output ports, perfect for camping, emergencies, and outdoor adventures."
     },
     {
-        "id": "GMCH6F2RD5mnopqrsuvwxyz",
+        "id": "8",
         "title": "Ergonomic Gaming Chair",
         "image": "https://m.media-amazon.com/images/I/71e-6Pl2jlL._AC_SL1500_.jpg",
         "description": "Adjustable gaming chair with lumbar support, breathable mesh back, 4D armrests, and premium memory foam cushioning."
     },
     {
-        "id": "IHGD1N8WK7ijklmnopqrstuv",
+        "id": "9",
         "title": "Smart Indoor Herb Garden",
         "image": "https://www.seriouseats.com/thmb/1uk8IPTSBHGj8Je6sfvU76D4f_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sea-product-indoor-herb-garden-irvin-lin-02-4ea29ab30cbc448393da75c88194276a.jpeg",
         "description": "Automated indoor growing system with LED grow lights, self-watering mechanism, and smartphone app for plant monitoring."
     },
     {
-        "id": "NWEB3L6XP0qrstuvwxyzabcde",
+        "id": "10",
         "title": "Noise-Reducing Wireless Earbuds",
         "image": "https://i.pcmag.com/imagery/roundups/02jmWgahGc1kOlR6u4u2Q9g-11..v1718337154.jpg",
         "description": "True wireless earbuds with active noise cancellation, 8-hour battery life, touch controls, and sweatproof design for workouts."
